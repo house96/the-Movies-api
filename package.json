@@ -2,7 +2,7 @@
   "name": "ardas-test",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/kosianchuk/the-Movies-api",
+  "homepage": "https://kosianchuk.github.io/the-Movies-api/",
   "dependencies": {
     "axios": "^0.18.0",
     "babel-polyfill": "^6.26.0",
