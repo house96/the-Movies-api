@@ -2,6 +2,7 @@
   "name": "ardas-test",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://github.com/beta-version-profile/the-Movies-apip",
   "dependencies": {
     "axios": "^0.18.0",
     "babel-polyfill": "^6.26.0",
@@ -27,7 +28,9 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "browserslist": {
     "production": [
