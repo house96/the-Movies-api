@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/kosianchuk/the-Movies-api/static/css/main.ade795ac.chunk.css",
+    "main.css": "/kosianchuk/the-Movies-api/static/css/main.f97e6f62.chunk.css",
     "main.js": "/kosianchuk/the-Movies-api/static/js/main.3288aaa1.chunk.js",
     "main.js.map": "/kosianchuk/the-Movies-api/static/js/main.3288aaa1.chunk.js.map",
     "runtime~main.js": "/kosianchuk/the-Movies-api/static/js/runtime~main.d50134fe.js",
@@ -8,8 +8,9 @@
     "static/js/2.62b7f6d2.chunk.js": "/kosianchuk/the-Movies-api/static/js/2.62b7f6d2.chunk.js",
     "static/js/2.62b7f6d2.chunk.js.map": "/kosianchuk/the-Movies-api/static/js/2.62b7f6d2.chunk.js.map",
     "index.html": "/kosianchuk/the-Movies-api/index.html",
-    "precache-manifest.9475bb85863ed38c2d11235ff69cf147.js": "/kosianchuk/the-Movies-api/precache-manifest.9475bb85863ed38c2d11235ff69cf147.js",
+    "precache-manifest.e5dda2d2ebce0e5de87c666cb600bd66.js": "/kosianchuk/the-Movies-api/precache-manifest.e5dda2d2ebce0e5de87c666cb600bd66.js",
     "service-worker.js": "/kosianchuk/the-Movies-api/service-worker.js",
-    "static/css/main.ade795ac.chunk.css.map": "/kosianchuk/the-Movies-api/static/css/main.ade795ac.chunk.css.map"
+    "static/css/main.f97e6f62.chunk.css.map": "/kosianchuk/the-Movies-api/static/css/main.f97e6f62.chunk.css.map",
+    "static/media/index.css": "/kosianchuk/the-Movies-api/static/media/helvetica_neue_regular.a035ad37.ttf"
   }
 }
