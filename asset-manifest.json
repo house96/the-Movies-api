@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/house96/the-Movies-api/static/css/main.ade795ac.chunk.css",
-    "main.js": "/house96/the-Movies-api/static/js/main.9223781d.chunk.js",
-    "main.js.map": "/house96/the-Movies-api/static/js/main.9223781d.chunk.js.map",
-    "runtime~main.js": "/house96/the-Movies-api/static/js/runtime~main.8eaa1f5e.js",
-    "runtime~main.js.map": "/house96/the-Movies-api/static/js/runtime~main.8eaa1f5e.js.map",
-    "static/js/2.62b7f6d2.chunk.js": "/house96/the-Movies-api/static/js/2.62b7f6d2.chunk.js",
-    "static/js/2.62b7f6d2.chunk.js.map": "/house96/the-Movies-api/static/js/2.62b7f6d2.chunk.js.map",
-    "index.html": "/house96/the-Movies-api/index.html",
-    "precache-manifest.18d42147d560ce4bc0abfb134d828afa.js": "/house96/the-Movies-api/precache-manifest.18d42147d560ce4bc0abfb134d828afa.js",
-    "service-worker.js": "/house96/the-Movies-api/service-worker.js",
-    "static/css/main.ade795ac.chunk.css.map": "/house96/the-Movies-api/static/css/main.ade795ac.chunk.css.map"
+    "main.css": "/kosianchuk/the-Movies-api/static/css/main.ade795ac.chunk.css",
+    "main.js": "/kosianchuk/the-Movies-api/static/js/main.3288aaa1.chunk.js",
+    "main.js.map": "/kosianchuk/the-Movies-api/static/js/main.3288aaa1.chunk.js.map",
+    "runtime~main.js": "/kosianchuk/the-Movies-api/static/js/runtime~main.d50134fe.js",
+    "runtime~main.js.map": "/kosianchuk/the-Movies-api/static/js/runtime~main.d50134fe.js.map",
+    "static/js/2.62b7f6d2.chunk.js": "/kosianchuk/the-Movies-api/static/js/2.62b7f6d2.chunk.js",
+    "static/js/2.62b7f6d2.chunk.js.map": "/kosianchuk/the-Movies-api/static/js/2.62b7f6d2.chunk.js.map",
+    "index.html": "/kosianchuk/the-Movies-api/index.html",
+    "precache-manifest.9475bb85863ed38c2d11235ff69cf147.js": "/kosianchuk/the-Movies-api/precache-manifest.9475bb85863ed38c2d11235ff69cf147.js",
+    "service-worker.js": "/kosianchuk/the-Movies-api/service-worker.js",
+    "static/css/main.ade795ac.chunk.css.map": "/kosianchuk/the-Movies-api/static/css/main.ade795ac.chunk.css.map"
   }
 }
