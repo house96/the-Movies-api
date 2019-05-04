@@ -1,0 +1,30 @@
+.footer {
+  display: flex;
+  align-items: center;
+  width: 100%;
+  color: #7c92b8;
+  padding: 20px 0;
+  transition: opacity 0.5s ease-in;
+}
+
+.footer div {
+  display: flex;
+  flex: 1 1 0;
+}
+
+.footer a {
+  color: #95c8f1;
+  text-shadow: #95c8f1 0px 0px 4px;
+  padding: 0 5px;
+}
+
+.footer a:hover {
+  color: #c6e5ff;
+  text-shadow: #c6e5ff 0px 0px 6px;
+}
+
+.api-footer a {
+  font-size: 14px;
+  color: #7c92b8;
+  text-shadow: none;
+}

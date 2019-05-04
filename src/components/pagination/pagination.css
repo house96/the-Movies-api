@@ -1,0 +1,14 @@
+.pagination {
+  display: flex;
+}
+.pagination__item {
+  color: #95c8f1;
+  text-shadow: #95c8f1 0px 0px 4px;
+  padding: 0 5px;
+  cursor: pointer;
+}
+
+.pagination__item_active {
+  color: #61efff;
+  text-shadow: #61efff 0px 0px 4px;
+}

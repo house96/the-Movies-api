@@ -1,0 +1,4 @@
+export const POPULAR_MOVIES = 'POPULAR_MOVIES'
+export const MOVIES = 'MOVIES'
+export const SET_SEARCH_TEXT = 'SET_SEARCH_TEXT'
+export const SEARCH_MOVIES = 'SEARCH_MOVIES'
