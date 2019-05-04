@@ -2,7 +2,7 @@
   "name": "ardas-test",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/beta-version-profile/the-Movies-apip",
+  "homepage": "https://github.com/house96/the-Movies-apip",
   "dependencies": {
     "axios": "^0.18.0",
     "babel-polyfill": "^6.26.0",
