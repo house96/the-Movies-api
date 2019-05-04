@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/kosianchuk/the-Movies-api/static/css/main.f97e6f62.chunk.css",
-    "main.js": "/kosianchuk/the-Movies-api/static/js/main.3288aaa1.chunk.js",
-    "main.js.map": "/kosianchuk/the-Movies-api/static/js/main.3288aaa1.chunk.js.map",
-    "runtime~main.js": "/kosianchuk/the-Movies-api/static/js/runtime~main.d50134fe.js",
-    "runtime~main.js.map": "/kosianchuk/the-Movies-api/static/js/runtime~main.d50134fe.js.map",
-    "static/js/2.62b7f6d2.chunk.js": "/kosianchuk/the-Movies-api/static/js/2.62b7f6d2.chunk.js",
-    "static/js/2.62b7f6d2.chunk.js.map": "/kosianchuk/the-Movies-api/static/js/2.62b7f6d2.chunk.js.map",
-    "index.html": "/kosianchuk/the-Movies-api/index.html",
-    "precache-manifest.1fa9fe48cbdfa8da305d075ab8f82765.js": "/kosianchuk/the-Movies-api/precache-manifest.1fa9fe48cbdfa8da305d075ab8f82765.js",
-    "service-worker.js": "/kosianchuk/the-Movies-api/service-worker.js",
-    "static/css/main.f97e6f62.chunk.css.map": "/kosianchuk/the-Movies-api/static/css/main.f97e6f62.chunk.css.map",
-    "static/media/index.css": "/kosianchuk/the-Movies-api/static/media/helvetica_neue_regular.a035ad37.ttf"
+    "main.css": "/the-Movies-api/static/css/main.f235385b.chunk.css",
+    "main.js": "/the-Movies-api/static/js/main.d3506617.chunk.js",
+    "main.js.map": "/the-Movies-api/static/js/main.d3506617.chunk.js.map",
+    "runtime~main.js": "/the-Movies-api/static/js/runtime~main.02ab2393.js",
+    "runtime~main.js.map": "/the-Movies-api/static/js/runtime~main.02ab2393.js.map",
+    "static/js/2.62b7f6d2.chunk.js": "/the-Movies-api/static/js/2.62b7f6d2.chunk.js",
+    "static/js/2.62b7f6d2.chunk.js.map": "/the-Movies-api/static/js/2.62b7f6d2.chunk.js.map",
+    "index.html": "/the-Movies-api/index.html",
+    "precache-manifest.5649122728f925043db40add9f69a9aa.js": "/the-Movies-api/precache-manifest.5649122728f925043db40add9f69a9aa.js",
+    "service-worker.js": "/the-Movies-api/service-worker.js",
+    "static/css/main.f235385b.chunk.css.map": "/the-Movies-api/static/css/main.f235385b.chunk.css.map",
+    "static/media/index.css": "/the-Movies-api/static/media/helvetica_neue_regular.a035ad37.ttf"
   }
 }
