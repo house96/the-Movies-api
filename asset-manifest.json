@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/the-Movies-api/static/css/main.f235385b.chunk.css",
-    "main.js": "/the-Movies-api/static/js/main.d3506617.chunk.js",
-    "main.js.map": "/the-Movies-api/static/js/main.d3506617.chunk.js.map",
+    "main.css": "/the-Movies-api/static/css/main.414d585a.chunk.css",
+    "main.js": "/the-Movies-api/static/js/main.f16f39a0.chunk.js",
+    "main.js.map": "/the-Movies-api/static/js/main.f16f39a0.chunk.js.map",
     "runtime~main.js": "/the-Movies-api/static/js/runtime~main.02ab2393.js",
     "runtime~main.js.map": "/the-Movies-api/static/js/runtime~main.02ab2393.js.map",
-    "static/js/2.62b7f6d2.chunk.js": "/the-Movies-api/static/js/2.62b7f6d2.chunk.js",
-    "static/js/2.62b7f6d2.chunk.js.map": "/the-Movies-api/static/js/2.62b7f6d2.chunk.js.map",
+    "static/js/2.2848ea7a.chunk.js": "/the-Movies-api/static/js/2.2848ea7a.chunk.js",
+    "static/js/2.2848ea7a.chunk.js.map": "/the-Movies-api/static/js/2.2848ea7a.chunk.js.map",
     "index.html": "/the-Movies-api/index.html",
-    "precache-manifest.5649122728f925043db40add9f69a9aa.js": "/the-Movies-api/precache-manifest.5649122728f925043db40add9f69a9aa.js",
+    "precache-manifest.e2de583de7f510fbe9dc1ec42f404e95.js": "/the-Movies-api/precache-manifest.e2de583de7f510fbe9dc1ec42f404e95.js",
     "service-worker.js": "/the-Movies-api/service-worker.js",
-    "static/css/main.f235385b.chunk.css.map": "/the-Movies-api/static/css/main.f235385b.chunk.css.map",
+    "static/css/main.414d585a.chunk.css.map": "/the-Movies-api/static/css/main.414d585a.chunk.css.map",
     "static/media/index.css": "/the-Movies-api/static/media/helvetica_neue_regular.a035ad37.ttf"
   }
 }
