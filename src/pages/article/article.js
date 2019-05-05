@@ -19,6 +19,11 @@ const Article = props => {
 
   if (loading) return <Loader />
 
+  const genres = currentMovie.genres.map(({ name }) => name).join(' / ')
+  const IMBD = currentMovie.vote_average
+    ? +currentMovie.vote_average.toFixed(1)
+    : '--'
+
   return (
     <div className="article">
       <button className="back" onClick={onClick}>
@@ -37,6 +42,28 @@ const Article = props => {
           style={{ width: '100%' }}
         />
         <div className="description">{currentMovie.overview}</div>
+        <div className="details">
+          <div className="row">
+            <span>Language:</span>
+            <p>{currentMovie.original_language}</p>
+          </div>
+          <div className="row">
+            <span>Status:</span>
+            <p>{currentMovie.status}</p>
+          </div>
+          <div className="row">
+            <span>Date:</span>
+            <p>{currentMovie.release_date}</p>
+          </div>
+          <div className="row">
+            <span>Genres:</span>
+            <p>{genres}</p>
+          </div>
+          <div className="row">
+            <span>IMDb:</span>
+            <p>{IMBD}</p>
+          </div>
+        </div>
       </div>
     </div>
   )

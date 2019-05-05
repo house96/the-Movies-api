@@ -39,6 +39,7 @@ export default function(state = defaultState, action) {
                 .set('moviesList', response.results)
                 .set('totalPages', response.total_pages)
                 .set('currentPage', response.page)
+                .set('search', null)
             default:
               return state
           }

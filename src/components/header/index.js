@@ -1,14 +1,16 @@
-import { connect } from 'react-redux'
-import { withRouter } from 'react-router-dom'
+import React from 'react'
+import { Link } from 'react-router-dom'
 
-import { setSearchText, getSearchMovies } from '../../actions/movies'
-import Header from './header'
+import './header.css'
 
-const mapStateToProps = ({ movies: { search } }) => ({
-  search,
-})
+const Header = () => {
+  return (
+    <header className="header">
+      <h1>
+        <Link to="/">The Movie App</Link>
+      </h1>
+    </header>
+  )
+}
 
-export default connect(
-  mapStateToProps,
-  { setSearchText, getSearchMovies }
-)(withRouter(Header))
+export default Header

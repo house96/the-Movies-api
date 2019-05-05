@@ -21,8 +21,7 @@ html {
 }
 
 button,
-input[type='submit'],
-input[type='reset'] {
+input[type='submit'] {
   background: none;
   color: inherit;
   border: none;
@@ -34,12 +33,14 @@ input[type='reset'] {
 
 input {
   text-align: center;
-  caret-color: #566585;
+  caret-color: #87a0cc;
 }
 
 input::placeholder {
-  font-size: 30px;
-  color: #0b0f14;
+  font-size: 18px;
+  color: #87a0cc;
+  text-shadow: #87a0cc 0px 0px 4px;
+  font-style: italic;
 }
 
 a {
@@ -51,4 +52,7 @@ a {
   width: 100%;
   min-height: 100vh;
   transition: background-color 1.5s ease-in-out, opacity 1.5s ease-in-out;
+}
+.container {
+  transform: translateY(50px);
 }

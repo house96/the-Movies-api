@@ -1,7 +1,7 @@
 import React, { Component } from 'react'
 import queryString from 'query-string'
 
-import Header from '../../components/header'
+import Filter from '../../components/filter'
 import Card from '../../components/card'
 import Footer from '../../components/footer'
 import { Loader } from '../../components/loader'
@@ -59,7 +59,7 @@ class Home extends Component {
           justifyContent: 'space-between',
         }}
       >
-        <Header />
+        <Filter />
         <section className="card-list">
           {movies && movies.length ? (
             movies.map(movie => <Card key={movie.id} movie={movie} />)
