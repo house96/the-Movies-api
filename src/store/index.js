@@ -1,5 +1,5 @@
 import { createStore, applyMiddleware, compose } from 'redux'
-import { createHashHistory } from 'history'
+import { createBrowserHistory } from 'history'
 import { routerMiddleware } from 'connected-react-router'
 import thunk from 'redux-thunk'
 import createRootReducer from '../reducers'
@@ -9,7 +9,7 @@ import { getMovies, searchMovies, getMovieInfo } from '../service/moviesApi'
  * @property __REDUX_DEVTOOLS_EXTENSION_COMPOSE__
  */
 
-export const history = createHashHistory()
+export const history = createBrowserHistory()
 
 const middlewares = [
   thunk.withExtraArgument({
